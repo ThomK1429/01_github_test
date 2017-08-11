@@ -1,0 +1,19 @@
+{
+  "name": "01_github_test",
+  "version": "1.0.0",
+  "description": "quick deploy to github test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomK1429/01_github_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomK1429/01_github_test/issues"
+  },
+  "homepage": "https://github.com/ThomK1429/01_github_test#readme"
+}
